@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/d9bb4700-c2f9-4aa1-9f9d-1542983ded7b
 - Runs on CPU with high-speed execution, mean execution time of the algorithm: **1.28s** for 1248x1120 resolution images  
 - Capable of processing complex scenes with slanted and non-fronto parallel surfaces  
 - Outputs both **disparity maps** and **error maps**
-- Has a mean accuracy of **87 %** compared to the GroundTruth image
+- Has a mean accuracy of **87 %** compared with the GroundTruth image
 
 ---
 
