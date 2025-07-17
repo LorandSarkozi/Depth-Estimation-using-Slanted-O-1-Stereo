@@ -7,7 +7,8 @@
 
 ## 🎥 Demo
 
-![Demo Video](tutorial.mp4)
+![Demo Video]
+https://github.com/user-attachments/assets/d9bb4700-c2f9-4aa1-9f9d-1542983ded7b
 
 *This demo shows the SOS algorithm running on stereo images, generating disparity and depth maps using planar slant estimation.*
 
