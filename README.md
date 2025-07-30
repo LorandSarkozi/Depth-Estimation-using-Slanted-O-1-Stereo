@@ -12,7 +12,7 @@
 https://github.com/user-attachments/assets/d9bb4700-c2f9-4aa1-9f9d-1542983ded7b
 
 
-*This demo shows the pipeline of the application, how you start it, how you choose the test images and max disparity, and how u run it. After pressing the Run SOS button, you will see 3 images: the GroundTruth Image, the generated **Disparity Map**, and the generated **Error Map**. Also you will be able to see the matching score, an **accuracy** evaluation. You can then save the image locally, and also reset the tab. *
+_This demo shows the pipeline of the application, how you start it, how you choose the test images and max disparity, and how u run it. After pressing the Run SOS button, you will see 3 images: the GroundTruth Image, the generated **Disparity Map**, and the generated **Error Map**. Also you will be able to see the matching score, an **accuracy** evaluation. You can then save the image locally, and also reset the tab._
 
 ---
 
